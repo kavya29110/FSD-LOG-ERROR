@@ -1,0 +1,10 @@
+[2023-09-26 10:15:23] ERROR: Database connection failed
+[2023-09-26 10:15:24] ERROR: Retry attempt 1 failed
+[2023-09-26 10:15:25] WARNING: Connection timeout
+[2023-09-26 10:15:30] INFO: Database connection established
+[2023-09-26 10:20:15] ERROR: Invalid user input at /api/users
+[2023-09-26 10:20:16] ERROR: Validation failed for field: email
+[2023-09-26 10:25:45] WARNING: High memory usage detected
+[2023-09-26 10:30:00] INFO: System backup started
+[2023-09-26 10:35:12] ERROR: Backup process failed
+[2023-09-26 10:35:13] ERROR: Insufficient disk space

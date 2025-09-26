@@ -1,0 +1,12 @@
+{
+  "name": "log-viewer",
+  "version": "1.0.0",
+  "description": "A web-based error log viewer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
